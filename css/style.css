@@ -4,10 +4,10 @@
 
 :root {
     /* Colour roles */
-    --color-background: #f5f5f5;
+    --color-background: #fff2a8;
     --color-surface: #ffffff;
     --color-primary: #222222;
-    --color-secondary: #555555;
+    --color-secondary: #3b371d;
     --color-accent: #4a6fa5;
     --color-accent-dark: #2f4f78;
     --color-border: #dddddd;
